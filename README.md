@@ -19,7 +19,7 @@ That's what's here.
 
 #### What I work with
 
-Python · R · SPSS · Excel · Tableau · JavaScript · Kotlin · Git
+Python · R · SAS · SQL · SPSS · Excel · Tableau · JavaScript · Kotlin · Git
 Mixed-methods evaluation · psychometric assessment design · federal program coordination
 
 #### Find me
