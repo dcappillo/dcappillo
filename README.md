@@ -24,4 +24,4 @@ Mixed-methods evaluation · psychometric assessment design · federal program co
 
 #### Find me
 
-[Portfolio](https://derekcappillo.netlify.app) · Derek.Cappillo@gmail.com
+[Portfolio](https://derekcappillo.netlify.app) · [LinkedIn](https://linkedin.com/in/derek-cappillo-66a445109)
