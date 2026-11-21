@@ -1,8 +1,8 @@
 ### Derek Cappillo
 
-I have a math degree and a master's in evaluation and measurement from Kent State, and I spent 15 years using them in places most math majors don't end up. That meant federal program evaluation for NASA, curriculum design, and a lot of years in front of a classroom.
+I'm a math nerd with a research background who builds things.I have a math degree and a master's in evaluation and measurement from Kent State, and I spent 15 years using them in places most math majors don't end up. That meant federal program evaluation for NASA, curriculum design, and a lot of years in front of a classroom.
 
-Teaching taught me to explain hard things to people who didn't ask to learn them. Evaluation taught me to distrust a number until I know where it came from. At some point I started building things after the kids went home, and the projects got bigger than the reasons I started them.
+Teaching taught me to explain hard things to people who didn't ask to learn them. Evaluation taught me to validate and replicate results. At some point I started building things after the kids went home, and the projects got bigger than the reasons I started them.
 
 That's what's here.
 
